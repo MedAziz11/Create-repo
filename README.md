@@ -4,7 +4,7 @@ create-repo
 
     Install :
         # VSCODE and python should be installed #
-        - git clone https://github.com/MedAziz11/Create-repo.git
+        - git clone "https://github.com/MedAziz11/Create-repo.git"
         - cd Create-repo
         - pip install -r Requirements.txt
         - code .env
