@@ -15,6 +15,6 @@ create-repo
             create-repo <YourRepoName>
             
     .env file content example:
-        USERNAME:"YourUsername"
-        PASSWORD:"YourPassword"
-        FILEPATH:"C:\your\repo\path"
+        USERNAME="YourUsername"
+        PASSWORD="YourPassword"
+        FILEPATH="C:\your\repo\path"
